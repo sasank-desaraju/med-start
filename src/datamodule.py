@@ -1,4 +1,12 @@
+"""
+Sasank Desaraju
+3/23/24
+"""
+
 # create datamodule for our Chestmnist.npz dataset
+
+#TODO: Do this correctly for the ChestDataset class lol. Really simple just instantiate the datasets in setup and then return them in the dataloaders.
+# Maybe submit some config.dataset kwargs?
 
 import os
 import torch

@@ -1,4 +1,4 @@
-image_path,label,stage,patient_id
+image,label,stage,patient_id
 0,0,val,0
 1,1,val,1
 2,2,val,2
