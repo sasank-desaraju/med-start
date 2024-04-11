@@ -2,6 +2,31 @@
 Example of workflow for medical AI training and testing
 
 
+## **For Users**
+
+## Instructions
+
+1. Clone repository
+
+2. Download and visualize the data using src/download_data.ipynb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## **For repo Developers/Maintainers**
+
 ## Constraints
 
 - Easy to run for biomedical computer vision tasks
